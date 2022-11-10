@@ -2,7 +2,7 @@
   "name": "CTBans",
   "version": "0.0.1",
   "dependencies": {
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "sweetalert2": "^7.26.28",
     "v-tooltip": "^2.0.0-rc.33",
     "vue": "latest",
