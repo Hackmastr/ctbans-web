@@ -11,7 +11,7 @@
   "main": "ctbans.js",
   "devDependencies": {
     "envify": "^4.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^8.0.0",
     "uniq": "^1.0.1",
     "vueify": "^9.4.1"
   },
